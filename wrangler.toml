@@ -17,5 +17,5 @@ crons = ["0 2 * * *"]
 
 # 自动绑定 KV 数据库
 [[kv_namespaces]]
-binding = "WENLAN_ESIM_DB"
-id = "40d9951a8804495c8f4e066a1e734d1c"
+binding = "ESIM_DB"
+id = "2b4c345a6d424b5992ac8105530e0623"
